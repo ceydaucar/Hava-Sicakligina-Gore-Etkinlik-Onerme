@@ -35,5 +35,5 @@ Patika.dev > Java101 > Koşullu İfadeler ve Kod Blokları > Pratik4 - Hava Sıc
                 else {
                     System.out.println("Yüzmeye gidebilirsiniz.");
                 }
-           }
+            }
         }
